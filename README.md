@@ -1,3 +1,9 @@
+
+Entrer la borne inférieure de votre intervalle : 1
+Entrer la borne supérieure de votre intervalle : 2
+Entrer la marge d’erreur : 0.0001
+Entrer la fonction f(x) : x**2 - 2
+
 # -TPE.inf-345
 test des fonctions
 import sympy as sp
